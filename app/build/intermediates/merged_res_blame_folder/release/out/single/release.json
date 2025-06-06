@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-merged_res-36:\\drawable_ic_app_logo.xml.flat",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-37:\\drawable\\ic_app_logo.xml"
+    },
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-merged_res-36:\\mipmap_ic_launcher.xml.flat",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-37:\\mipmap\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-merged_res-36:\\mipmap_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-37:\\mipmap\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-merged_res-36:\\mipmap_ic_launcher_background.xml.flat",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-37:\\mipmap\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-merged_res-36:\\drawable_impact_level_background.xml.flat",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-37:\\drawable\\impact_level_background.xml"
+    },
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-merged_res-36:\\mipmap_ic_launcher_round.xml.flat",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-37:\\mipmap\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-merged_res-36:\\layout_activity_about.xml.flat",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-37:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "com.example.eventosextremosapp-merged_res-36:/mipmap_ic_launcher.xml.flat",
+        "source": "com.example.eventosextremosapp-main-37:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-merged_res-36:\\layout_item_event.xml.flat",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-37:\\layout\\item_event.xml"
+    },
+    {
+        "merged": "com.example.eventosextremosapp-merged_res-36:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.example.eventosextremosapp-main-37:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-37:\\layout\\activity_main.xml"
+    }
+]

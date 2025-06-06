@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF5722</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Cores para os níveis de impacto -->
+    <color name="impact_light">#4CAF50</color>     <!-- Verde para impacto leve -->
+    <color name="impact_moderate">#FFC107</color>  <!-- Amarelo para impacto moderado -->
+    <color name="impact_severe">#F44336</color>    <!-- Vermelho para impacto severo -->
+    
+    <!-- Cores para o card de eventos -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_shadow">#DDDDDD</color>
+</resources>

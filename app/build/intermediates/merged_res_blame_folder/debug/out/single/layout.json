@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.eventosextremosapp-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.eventosextremosapp-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-mergeDebugResources-35:\\layout\\item_event.xml",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-38:\\layout\\item_event.xml"
+    },
+    {
+        "merged": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-mergeDebugResources-35:\\layout\\activity_about.xml",
+        "source": "C:\\Softwares\\Gradle\\daemon\\8.2\\com.example.eventosextremosapp-main-38:\\layout\\activity_about.xml"
+    }
+]

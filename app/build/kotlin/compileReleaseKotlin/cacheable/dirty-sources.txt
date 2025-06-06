@@ -1,0 +1,4 @@
+D:\GS-Kt\app\src\main\java\com\example\eventosextremosapp\EventAdapter.kt
+D:\GS-Kt\app\src\main\java\com\example\eventosextremosapp\Event.kt
+D:\GS-Kt\app\src\main\java\com\example\eventosextremosapp\AboutActivity.kt
+D:\GS-Kt\app\src\main\java\com\example\eventosextremosapp\MainActivity.kt

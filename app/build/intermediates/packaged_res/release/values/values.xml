@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF5722</color>
+    <color name="black">#000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_shadow">#DDDDDD</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="impact_light">#4CAF50</color>
+    <color name="impact_moderate">#FFC107</color>
+    <color name="impact_severe">#F44336</color>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_tiny">4dp</dimen>
+    <dimen name="spacing_xlarge">32dp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_title">24sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <string name="about_app_description">Aplicativo para registro de eventos climáticos extremos</string>
+    <string name="about_developers">Desenvolvido por:</string>
+    <string name="app_name">Registro de Eventos Extremos</string>
+    <string name="btn_about">Sobre</string>
+    <string name="btn_add">Incluir</string>
+    <string name="btn_delete">Excluir</string>
+    <string name="error_empty_field">Este campo não pode ficar vazio</string>
+    <string name="error_invalid_number">O número deve ser maior que zero</string>
+    <string name="hint_affected_people">Número de pessoas afetadas</string>
+    <string name="hint_event_date">Data do evento</string>
+    <string name="hint_event_type">Tipo do evento extremo</string>
+    <string name="hint_impact_level">Grau de impacto</string>
+    <string name="hint_local_name">Nome do local (cidade/bairro)</string>
+    <string name="impact_level_light">Leve</string>
+    <string name="impact_level_moderate">Moderado</string>
+    <string name="impact_level_severe">Severo</string>
+    <string name="title_activity_about">Sobre o Aplicativo</string>
+    <string name="title_activity_main">Registro de Eventos Extremos</string>
+    <style name="EventCardStyle">
+        <item name="android:layout_margin">8dp</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="contentPadding">16dp</item>
+    </style>
+    <style name="InputFieldStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+    <style name="PrimaryButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.EventosExtremosApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Registro de Eventos Extremos</string>
+    
+    <!-- Títulos e cabeçalhos -->
+    <string name="title_activity_main">Registro de Eventos Extremos</string>
+    <string name="title_activity_about">Sobre o Aplicativo</string>
+    
+    <!-- Campos do formulário -->
+    <string name="hint_local_name">Nome do local (cidade/bairro)</string>
+    <string name="hint_event_type">Tipo do evento extremo</string>
+    <string name="hint_impact_level">Grau de impacto</string>
+    <string name="hint_event_date">Data do evento</string>
+    <string name="hint_affected_people">Número de pessoas afetadas</string>
+    
+    <!-- Botões -->
+    <string name="btn_add">Incluir</string>
+    <string name="btn_delete">Excluir</string>
+    <string name="btn_about">Sobre</string>
+    
+    <!-- Mensagens de erro -->
+    <string name="error_empty_field">Este campo não pode ficar vazio</string>
+    <string name="error_invalid_number">O número deve ser maior que zero</string>
+    
+    <!-- Opções de impacto -->
+    <string name="impact_level_light">Leve</string>
+    <string name="impact_level_moderate">Moderado</string>
+    <string name="impact_level_severe">Severo</string>
+    
+    <!-- Sobre o aplicativo -->
+    <string name="about_app_description">Aplicativo para registro de eventos climáticos extremos</string>
+    <string name="about_developers">Desenvolvido por:</string>
+</resources>
