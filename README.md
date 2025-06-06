@@ -37,30 +37,26 @@ Este aplicativo permite cadastrar eventos extremos ocorridos em diferentes regi�
 
 ### Tela Principal
 
-![Tela Principal](screenshots/tela_principal.png)
+
 
 ### Lista de Eventos
 
-![Lista de Eventos](screenshots/lista_eventos.png)
+
 
 ### Validação de Campos
 
-![Validação de Campos](screenshots/validacao_campos.png)
+
 
 ### Tela Sobre
 
-![Tela Sobre](screenshots/tela_sobre.png)
+
 
 ## Desenvolvedor
 
-- Nome do Desenvolvedor - RM12345
+- Nome do Desenvolvedor - RM551192
 
 ## Instruções para Execução
 
 1. Clone este repositório
 2. Abra o projeto no Android Studio
 3. Execute o aplicativo em um emulador ou dispositivo Android
-
-## Observações
-
-As imagens de evidência são apenas ilustrativas e devem ser substituídas por capturas de tela reais do aplicativo em execução.
